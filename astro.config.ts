@@ -10,10 +10,10 @@ export default defineConfig({
 //     // ? 'https://astro-shadcn-ui-template.vercel.app'
 //     ? 'https://patriciovacaescobar.github.io'
 //     : 'http://localhost:4321',
-//   integrations: [
-//     react(),
-//     tailwind({
-//       applyBaseStyles: false,
-//     }),
-//   ],
+  integrations: [
+    react(),
+    tailwind({
+      applyBaseStyles: false,
+    }),
+  ],
 })
