@@ -7,10 +7,10 @@ export const loaderAnimation = [
 ]
 
 export const LINKS = {
-  github: 'https://github.com/bue221',
-  linkedin: 'https://www.linkedin.com/in/bue221/',
-  mail: 'mailto:camiloplaza3@gmail.com',
-  instagram: 'https://www.instagram.com/caj_ink/',
+  github: 'https://github.com/pcorsario',
+  linkedin: '#',
+  mail: 'mailto:patriciovacaescobar@gmail.com',
+  instagram: 'https://www.instagram.com/',
   medium: 'https://ladvace.medium.com/',
   discord: 'https://discordapp.com/users/163300027618295808',
 }
@@ -51,7 +51,7 @@ export const SEARCH: Page = {
 export const STUDIES = [
   {
     title: 'Computer Science',
-    institution: 'Universidad Central',
+    institution: 'Uniandes',
     link: 'https://www.ucentral.edu.co/',
     date: '2019 - 2027',
   },
@@ -70,15 +70,10 @@ export const STUDIES = [
   {
     title: '...',
     institution: 'Youtube',
-    link: 'https://www.youtube.com/@midulive',
+    link: 'https://www.youtube.com/@pcorsario',
     date: '2018 - 2022',
   },
-  {
-    title: 'Tattoo Artist',
-    institution: 'Tattoo Academy',
-    link: 'https://www.instagram.com/tattoodcacademy/',
-    date: '2024 - 2025',
-  },
+
 ]
 
 export const EXPERIENCE = [
